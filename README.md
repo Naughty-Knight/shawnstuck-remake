@@ -1,1 +1,3 @@
-# shawnstuck-remake
+# Shawn Re:stuck
+In the beginning, there was Shawn, and wouldn't you know it, he got stuck.
+But this is how it actually happened...
